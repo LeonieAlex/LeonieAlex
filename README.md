@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS and C++**
 
-- 📫 How to reach me **https://www.linkedin.com/in/leoniealexandra/**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/leoniealexandra/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
