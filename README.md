@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Leonie</h1>
 <h3 align="center">A Second year Computer Scientist Undergraduate student in University of Central Florida</h3>
 
-- 🔭 I’m currently working on [Sudoku](https://github.com/LeonieAlex/Sudoku)
+- 🔭 I’m currently working on [Sudoku](https://github.com/LeonieAlex/Sudoku) and [Minesweeper](https://github.com/LeonieAlex/Minesweeper)
 
-- 🌱 I’m currently learning **ReactJS and C++**
+- 🌱 I’m currently learning **Typescript and C++**
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/leoniealexandra/)
 
