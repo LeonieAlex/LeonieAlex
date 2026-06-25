@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Leonie</h1>
 
-- 🔭 I’m currently working on [Sudoku](https://github.com/LeonieAlex/Sudoku) and [Minesweeper](https://github.com/LeonieAlex/Minesweeper)
-
-- 🌱 I’m currently learning **Typescript and C++**
+- 🔭 I’m currently **NOT** a CS major anymore
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/leoniealexandra/)
 
