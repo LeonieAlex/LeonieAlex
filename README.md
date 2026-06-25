@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Leonie</h1>
-<h3 align="center">A Second year Computer Scientist Undergraduate student in University of Central Florida</h3>
 
 - 🔭 I’m currently working on [Sudoku](https://github.com/LeonieAlex/Sudoku) and [Minesweeper](https://github.com/LeonieAlex/Minesweeper)
 
